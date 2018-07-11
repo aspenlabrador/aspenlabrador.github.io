@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  text-align: center
+
+}
+
+  h2 {
+    color: blue;
+    text-align: center
+  }
+
+p {
+  color: black;
+  text-align: center
+}
+body {
+  background-image: url('cool.jpg')
